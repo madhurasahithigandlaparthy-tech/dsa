@@ -17,3 +17,5 @@ Sample Input 2:
 EXPLANATION:
 In the first example, all factors of 4 are 1, 2, 4.
 In the second example, all factors of 6 are 1, 2, 3, 6.
+
+<!-- last update: 01/04/2026 17:32:04 -->

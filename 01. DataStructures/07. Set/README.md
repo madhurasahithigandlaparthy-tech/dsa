@@ -26,3 +26,6 @@
 ### Problem Link: [GFG - Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#)
 ### Editorial Link: [Apni Kaksha - Anuj Kumar Sharma](https://youtu.be/PSpuM9cimxA)
 ### [Code](./SubarrayWith0Sum.java)
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

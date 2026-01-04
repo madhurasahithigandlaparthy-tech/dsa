@@ -39,3 +39,6 @@ public void rotate(int[] arr, int k) {
     reverse(arr, 0, len-1);
 }
 ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

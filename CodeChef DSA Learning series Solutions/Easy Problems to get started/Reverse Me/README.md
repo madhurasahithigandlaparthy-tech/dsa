@@ -24,3 +24,5 @@ Sample Output 2:
 EXPLANATION:
 In the first example, the reverse of the [1,3,2,4] is [4,2,3,1].
 In the second example, the reverse of [9,8] is [8,9]
+
+<!-- last update: 01/04/2026 17:32:04 -->

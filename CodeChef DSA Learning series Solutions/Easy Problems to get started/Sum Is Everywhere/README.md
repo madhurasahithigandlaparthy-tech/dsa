@@ -21,3 +21,5 @@ Sample Output 2:
 EXPLANATION:
 In the first example, (1 + 3 + 5 + 7) = 16 and (2 + 4 + 6 + 8) = 20.
 In the second example, only one odd that is 1 and only one even that is 2.
+
+<!-- last update: 01/04/2026 17:32:04 -->

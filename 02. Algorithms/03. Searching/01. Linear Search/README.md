@@ -19,3 +19,6 @@ static int linearSearch(int[] arr, int element) {
 	return -1;
 }
 ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

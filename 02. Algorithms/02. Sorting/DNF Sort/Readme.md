@@ -11,3 +11,5 @@ CASES :
 1. If array [mid] =0, then swap array [mid] with array [low] and increment both pointers once.
 2. If array [mid] = 1, then no swapping is required. Increment mid pointer once.
 3. If array [mid] = 2, then we swap array [mid] with array [high] and decrement the high pointer once.
+
+<!-- last update: 01/04/2026 17:32:03 -->

@@ -50,3 +50,6 @@ vector<vector<int> > Solution::solve(int A) {
 ```
 
 ## Asked in Google, Amazon
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

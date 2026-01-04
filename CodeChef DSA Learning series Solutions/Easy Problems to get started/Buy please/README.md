@@ -19,3 +19,5 @@ Sample Output 1:
 28
 Sample Input 2:
 1 1 4 8
+
+<!-- last update: 01/04/2026 17:32:04 -->

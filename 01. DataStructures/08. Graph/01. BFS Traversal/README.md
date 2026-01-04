@@ -41,3 +41,6 @@ BFS visits an adjacent unvisited node, marks it as done, and inserts it into a q
 Removes the previous vertex from the queue in case no adjacent vertex is found.
 BFS algorithm iterates until all the vertices in the graph are successfully traversed and marked as completed.
 There are no loops caused by BFS during the traversing of data from any node.
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

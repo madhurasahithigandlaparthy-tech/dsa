@@ -26,3 +26,5 @@ EXPLANATION:
 In the first example, (2, 4, 3) will form a Scalene Triangle.
 In the second example, (4, 4, 4) will form an Equilateral Triangle.
 In the third example, (4, 4, 9) will not form a triangle.
+
+<!-- last update: 01/04/2026 17:32:04 -->

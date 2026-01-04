@@ -10,3 +10,6 @@ For example, given [1,2,3].
 -> [ [1,2,3], [1,3,2], [2,3,1], [2,1,3], [3,2,1] ]
 
 Use recursion in your solution.
+
+
+<!-- last update: 01/04/2026 17:32:04 -->

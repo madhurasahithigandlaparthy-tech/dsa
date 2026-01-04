@@ -14,3 +14,6 @@ for (int i = 1; i < n; i++) {
 	arr[j + 1] = temp;
 }
 ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

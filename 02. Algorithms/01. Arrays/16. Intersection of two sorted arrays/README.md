@@ -44,3 +44,5 @@ vector<int> Solution::intersect(const vector<int> &A, const vector<int> &B) {
 
 ```
 ## Asked in <GOOGLE> & <FACEBOOK>
+
+<!-- last update: 01/04/2026 17:32:03 -->

@@ -185,3 +185,6 @@ class Compute
 ```
 
 ## Third and Fourth approaches make the equal number of comparisons when n is a power of 2. In general, method 3 seems to be the best.
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

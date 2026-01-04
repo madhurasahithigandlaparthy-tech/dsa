@@ -39,3 +39,6 @@ Output:
  PreOrder Traverse  (Parent, Left, Right) Postfix Expression :  + * 5 6 / 6 0 
  PostOrder Traverse (Left, Right, Parent) Prefix Expression  : 5 6 * 6 0 / + 
  ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

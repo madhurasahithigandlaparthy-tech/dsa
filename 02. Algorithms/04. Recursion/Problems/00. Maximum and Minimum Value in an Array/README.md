@@ -17,3 +17,6 @@ static int getMax(int[] arr, int i, int n) {
 	return max;
 }
 ```
+
+
+<!-- last update: 01/04/2026 17:32:04 -->

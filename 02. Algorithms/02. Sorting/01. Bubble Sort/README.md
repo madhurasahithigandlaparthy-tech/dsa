@@ -21,3 +21,6 @@ for (int i = 0; i < n - 1; i++) {
 - **j < n-1-i :** If it is not n-1 then it will give ArrayIndexOutOfBoundsException. <br>
 After execution of outer for loop, each time one element is in its sorted position, so this will exclude the comparison with that element in inner loop.
 - **boolean swapped :** If in any iteration it is found that not a single swapping is done, then it means that the array is sorted. So even if more executions are pending in outer loop, it will terminate to reduce the complexity.
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

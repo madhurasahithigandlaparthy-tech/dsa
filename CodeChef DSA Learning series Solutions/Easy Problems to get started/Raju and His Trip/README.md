@@ -22,3 +22,5 @@ Sample Input 3:
 20
 Sample Output 3:
 YES
+
+<!-- last update: 01/04/2026 17:32:04 -->

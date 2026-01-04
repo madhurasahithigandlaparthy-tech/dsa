@@ -9,3 +9,6 @@ Example 1:
 
 Input: root = [3,4,5,1,2], subRoot = [4,1,2]
 Output: true
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

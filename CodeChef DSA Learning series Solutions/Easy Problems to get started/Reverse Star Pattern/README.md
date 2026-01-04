@@ -28,3 +28,5 @@ Sample Output 2:
 EXPLANATION:
 In the first example, we'll print the first 4 lines of the given pattern.
 In the second example, we'll print the first 2 lines of the given pattern
+
+<!-- last update: 01/04/2026 17:32:04 -->

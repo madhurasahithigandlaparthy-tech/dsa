@@ -35,3 +35,6 @@ private static int partition(int arr[], int l, int h) {
 	return j;
 }
   ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

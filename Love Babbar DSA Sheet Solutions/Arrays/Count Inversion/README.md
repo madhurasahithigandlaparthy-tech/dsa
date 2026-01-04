@@ -116,3 +116,6 @@ int main() {
 ```
 
 # this code is contributed by krishna6431
+
+
+<!-- last update: 01/04/2026 17:32:04 -->

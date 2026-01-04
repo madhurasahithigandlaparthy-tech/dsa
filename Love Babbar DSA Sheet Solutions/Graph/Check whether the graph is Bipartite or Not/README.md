@@ -36,3 +36,6 @@ If we are going from vertex v to unvisited vertex to, we assign color[to] = !col
 If we are going from vertex v to visited vertex to, we know that both the vertex have some color assigned. So we check if color[v] == color[to]. If this condition is true than v and to have same color(which are neighbours) thus the graph is not bipartite otherwise check for rest of the graph.
 
 <strong>Time Complexity :</strong> O(V+E)
+
+
+<!-- last update: 01/04/2026 17:32:05 -->

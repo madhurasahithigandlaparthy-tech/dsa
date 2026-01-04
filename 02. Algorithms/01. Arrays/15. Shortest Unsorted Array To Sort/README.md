@@ -22,3 +22,6 @@ Then, min is updated to min+1, since sorting will be carried out from the next i
 Similarly, for max index, the subarray succeeding the max index is searched till an element > a[max] is found or till we reach the end of the array. Then that index is updated to max - 1.
 
 After following these steps, we will have found the shortest subarray to be sorted. 
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

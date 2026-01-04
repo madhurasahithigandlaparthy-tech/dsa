@@ -27,3 +27,6 @@ To obtain this, we do a DFS traversal of the graph and store vertices according 
 Now, we'll reverse the edges. This would make vertices (0, 1, 2) as sink and (4) as the source. If we do a DFS of the reversed graph using sequence of vertices in the stack then, this would now help us segregate different strongly connected components and we could count them.
 
 <strong>Time Complexity :</strong> O(V+E)
+
+
+<!-- last update: 01/04/2026 17:32:05 -->

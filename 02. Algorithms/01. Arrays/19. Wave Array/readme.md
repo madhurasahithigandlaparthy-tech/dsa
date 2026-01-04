@@ -27,3 +27,6 @@ sorting it in wave form are
 4 2 8 7 10 9.
 
  [question link](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1)
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

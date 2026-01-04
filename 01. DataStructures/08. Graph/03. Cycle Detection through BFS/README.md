@@ -22,3 +22,5 @@ Steps involved in detecting cycle in a directed graph using DFS.
 - Find all the vertices which are not visited and are adjacent to the current node. Recursively call the function for those vertices, If the recursive function returns true, return true.
 - If the adjacent vertices are already marked in the recursion stack then return true.
 - Create a wrapper class, that calls the recursive function for all the vertices and if any function returns true return true. Else if for all vertices the function returns false return false.
+
+<!-- last update: 01/04/2026 17:32:03 -->

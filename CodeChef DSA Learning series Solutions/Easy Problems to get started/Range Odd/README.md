@@ -21,3 +21,5 @@ Sample Output 2:
 EXPLANATION:
 In the first example, odd numbers between 2 and 9 are 3,5,7,9.
 In the second example, the only odd number in the range is 3
+
+<!-- last update: 01/04/2026 17:32:04 -->

@@ -19,3 +19,6 @@ static void sum(int[] arr, int n) {
 	System.out.println(Arrays.toString(arr));
 }
 ```
+
+
+<!-- last update: 01/04/2026 17:32:04 -->

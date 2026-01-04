@@ -69,3 +69,6 @@
   - e.g. arr[]={1, 2, 3, 4, 5, 6, 7}--->{1, 3, 5, 7}, {1, 4, 6, 7}...
 - **(Substring/SubArray)** - No gaps are possible between elements. Adjacent elements should be there.
   - e.g. arr[]={1, 2, 3, 4, 5, 6, 7}--->{1, 2}, {1, 2, 3}, {4, 5, 6}, {6, 7}...
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

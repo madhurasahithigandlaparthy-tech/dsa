@@ -64,3 +64,6 @@ static void merge(int arr[], int l, int mid, int r) {
 		arr[i] = temp[k];
 }
   ```
+
+
+<!-- last update: 01/04/2026 17:32:03 -->

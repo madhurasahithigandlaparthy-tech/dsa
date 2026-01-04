@@ -21,3 +21,5 @@ Sample Output 2:
 EXPLANATION:
 In the first example, (1 + 2 + 3 + 4) = 10.
 In the second example, (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8) = 36.
+
+<!-- last update: 01/04/2026 17:32:04 -->

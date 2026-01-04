@@ -69,3 +69,6 @@ Space Complexity: O(1)
 Problem Statement: https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/
 
 Reference Video: https://youtu.be/HwDiGWwp11k
+
+
+<!-- last update: 01/04/2026 17:32:03 -->
